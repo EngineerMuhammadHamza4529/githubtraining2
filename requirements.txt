@@ -4,3 +4,5 @@ Type Options
 colors
 lines
 vibrant
+Dark Mode
+Video calls
