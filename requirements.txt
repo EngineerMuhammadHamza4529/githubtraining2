@@ -6,3 +6,8 @@ lines
 vibrant
 Dark Mode
 Video calls
+
+payment integration
+payment options
+send money
+receive money
